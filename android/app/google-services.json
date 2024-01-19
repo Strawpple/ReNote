@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323929920152",
+    "project_id": "renote-84312",
+    "storage_bucket": "renote-84312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323929920152:android:ade324d67695277f4b36ed",
+        "android_client_info": {
+          "package_name": "com.example.renote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdI2doR2eTlmV-HgtoUzFkUjXCNRMMxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
