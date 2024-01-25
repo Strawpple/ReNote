@@ -10,6 +10,12 @@ class Homepage extends StatefulWidget {
 class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+
+    
+    return Scaffold(
+      body: Container(
+        child: Text("Homepage"),
+      ),
+    );
   }
 }

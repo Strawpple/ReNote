@@ -60,11 +60,11 @@ class _LoginState extends State<Login> {
                 Container(
                   child: SizedBox(height: 30),
                 ),
-                Container(
-                  height: 200,
-                  width: 250,
-                  child: Image.asset('lib/assets/images/jmave.png'),
-                ),
+                // Container(
+                //   height: 200,
+                //   width: 250,
+                //   child: Image.asset('lib/assets/images/jmave.png'),
+                // ),
                 Container(
                   child: SizedBox(
                     height: 20,
